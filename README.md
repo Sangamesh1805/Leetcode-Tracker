@@ -56,16 +56,6 @@ So I built this **LeetCode Tracker** to:
 
 ---
 
-## 💡 Future Improvements
-
-* 💾 Save progress using localStorage / database
-* 🔐 User login system
-* 📈 Daily streak tracking
-* 📊 Performance analytics
-* 🌐 Full-stack version
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -77,8 +67,8 @@ If you have ideas or improvements, feel free to fork the repo and submit a PR.
 
 **Sangamesh**
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/Sangamesh1805
+* LinkedIn: https://linkedin.com/in/sangamesh-hudgikar
 
 ---
 
