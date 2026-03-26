@@ -40,7 +40,8 @@ So I built this **LeetCode Tracker** to:
 
 ## 📸 Preview
 
-*Add screenshots or screen recording here*
+![Tracker](./Screenshot.png)
+![List_of_questions](./Screenshot2.png)
 
 ---
 
